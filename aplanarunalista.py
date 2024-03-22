@@ -1,4 +1,4 @@
-Ejemplo = [[3, 8, 2], [(1), 7], [(5, 9), 6], [4], [0, 10, 6, 7],8]
+Ejemplo = [[5, 8, 1], [(4), 7], [(7, 3), 4], [2], [1, 10, 8, 7],3,[3,8]]
 #Firts we define the function
 def aplanar_list(lista):
     alamacen = []
